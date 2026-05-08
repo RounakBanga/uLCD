@@ -1,5 +1,5 @@
 #include "uLCD.h"
-#include "uart.h"
+#include "UART.h"
 
 static  ulcd_uart = 0;
 
